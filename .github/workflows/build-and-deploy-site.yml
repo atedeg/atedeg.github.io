@@ -2,6 +2,9 @@ name: Build and publish site
 
 on:
   push:
+    paths-ignore:
+      - 'README.md'
+      - 'LICENSE'
     branches:
       - main
   pull_request:
