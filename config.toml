@@ -9,6 +9,9 @@ theme = "hello-friend-ng"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
+  # Enable toggle for dark mode
+  enableThemeToggle = true
+
   # Subtitle for home
   homeSubtitle = ""
 
