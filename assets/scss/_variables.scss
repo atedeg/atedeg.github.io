@@ -4,17 +4,17 @@
 $light-background: #fdfaf3;
 $light-background-secondary: #eaeaea;
 $light-background-header: #fdf6e3;
-$light-color: #222;
+$light-color: #292929;
 $light-color-variant: black;
-$light-color-secondary: #999;
+$light-color-secondary: #c9bba4;
 $light-border-color: #dcdcdc;
 $light-table-color: #dcdcdc;
 
 /* Dark theme colors */
-$dark-background: #232425;
-$dark-background-secondary: #3b3d42;
-$dark-background-header: #1b1c1d;
-$dark-color: #a9a9b3;
+$dark-background: #2f2f2f;
+$dark-background-secondary: #292929;
+$dark-background-header: #292929;
+$dark-color: #fdf6e3;
 $dark-color-variant: white;
 $dark-color-secondary: #b3b3bd;
 $dark-border-color: #4e4e57;
@@ -31,3 +31,24 @@ $media-size-tablet: "(max-width: 900px)";
 
 /* Content */
 $max-width: 860px;
+
+.avatar-container {
+  a {
+    display: inline-block;
+  }
+  justify-content: space-evenly;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 3em;
+}
+
+.avatar {
+  height: 6em;
+  width: 6em;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  background: none !important;
+  box-shadow: none !important;
+}

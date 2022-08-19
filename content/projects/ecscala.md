@@ -6,13 +6,10 @@ tags = [
     "scala",
     "tdd",
     "devops",
-    "development",
 ]
 date = "2021-08-04"
-categories = [
-    "Development",
-    "scala",
-]
 [ author ]
   name = "Nicolas Farabegoli"
 +++
+
+[ECScala repository](https://github.com/atedeg/ecscala)
