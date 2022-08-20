@@ -2,7 +2,7 @@
 
 /* Light theme color */
 $light-background: #fdfaf3;
-$light-background-secondary: #eaeaea;
+$light-background-secondary: #fdf6e3;
 $light-background-header: #fdf6e3;
 $light-color: #292929;
 $light-color-variant: black;
@@ -36,6 +36,7 @@ $max-width: 860px;
   a {
     display: inline-block;
   }
+
   justify-content: space-evenly;
   display: flex;
   flex-wrap: wrap;
