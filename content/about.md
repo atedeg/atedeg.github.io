@@ -4,7 +4,7 @@ date = "2022-08-17"
 aliases = ["about-us", "contact"]
 +++
 
-We are four computer science students @ University of Bologna 👋  
+We are four computer science and engineering students @ University of Bologna 👋  
 We ❤️ FP & BBQ
 
 <p class="avatar-container">
